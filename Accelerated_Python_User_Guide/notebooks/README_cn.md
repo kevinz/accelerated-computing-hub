@@ -1,16 +1,16 @@
-# Accelerated Python User Guide
+# Python 加速计算用户指南
 
-## Notebooks
+## 笔记本目录
 
-| Notebook      | Link |
+| 笔记本      | 链接 |
 | ----------- | ----------- |
-| Chapter 1: GPU Computing Basics | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVIDIA/accelerated-computing-hub/blob/main/Accelerated_Python_User_Guide/notebooks/Chapter_1_GPU_Computing_Basics_cn.ipynb)|
-| Chapter 2: Brief Intro to CUDA | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVIDIA/accelerated-computing-hub/blob/main/Accelerated_Python_User_Guide/notebooks/Chapter_2_Brief_Intro_to_CUDA_cn.ipynb)|
-| Chapter 3: Python on the GPU | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVIDIA/accelerated-computing-hub/blob/main/Accelerated_Python_User_Guide/notebooks/Chapter_3_Python_on_the_GPU_cn.ipynb)|
-| Chapter 4: Scientific Computing with CuPy | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVIDIA/accelerated-computing-hub/blob/main/Accelerated_Python_User_Guide/notebooks/Chapter_4_Scientific_Computing_with_CuPy_cn.ipynb)|
-| Chapter 5: CUDA Kernels with Numba | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVIDIA/accelerated-computing-hub/blob/main/Accelerated_Python_User_Guide/notebooks/Chapter_5_CUDA_Kernels_with_Numba_cn.ipynb)|
-| Chapter 6: Intro to cuDF | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVIDIA/accelerated-computing-hub/blob/main/Accelerated_Python_User_Guide/notebooks/Chapter_6_Intro_to_cuDF_cn.ipynb)|
-| Chapter 7: Intro to cuML | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVIDIA/accelerated-computing-hub/blob/main/Accelerated_Python_User_Guide/notebooks/Chapter_7_Intro_to_cuML_cn.ipynb)|
-| Chapter 8: Intro to cuGraph | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVIDIA/accelerated-computing-hub/blob/main/Accelerated_Python_User_Guide/notebooks/Chapter_8_Intro_to_cuGraph_cn.ipynb)|
-| Chapter 9: Developer Tools | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVIDIA/accelerated-computing-hub/blob/main/Accelerated_Python_User_Guide/notebooks/Chapter_9_Developer_Tools_cn.ipynb)|
-| Chapter X: Distributed Computing cuNumeric | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVIDIA/accelerated-computing-hub/blob/main/Accelerated_Python_User_Guide/notebooks/Chapter_X_Distributed_Computing_cuNumeric_cn.ipynb)|
+| 第1章：GPU 计算基础 | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinz/accelerated-computing-hub/blob/main/Accelerated_Python_User_Guide/notebooks/Chapter_1_GPU_Computing_Basics_cn.ipynb)|
+| 第2章：CUDA 简介 | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinz/accelerated-computing-hub/blob/main/Accelerated_Python_User_Guide/notebooks/Chapter_2_Brief_Intro_to_CUDA_cn.ipynb)|
+| 第3章：GPU 上的 Python | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinz/accelerated-computing-hub/blob/main/Accelerated_Python_User_Guide/notebooks/Chapter_3_Python_on_the_GPU_cn.ipynb)|
+| 第4章：使用 CuPy 进行科学计算 | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinz/accelerated-computing-hub/blob/main/Accelerated_Python_User_Guide/notebooks/Chapter_4_Scientific_Computing_with_CuPy_cn.ipynb)|
+| 第5章：使用 Numba 编写 CUDA 内核 | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinz/accelerated-computing-hub/blob/main/Accelerated_Python_User_Guide/notebooks/Chapter_5_CUDA_Kernels_with_Numba_cn.ipynb)|
+| 第6章：cuDF 入门 | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinz/accelerated-computing-hub/blob/main/Accelerated_Python_User_Guide/notebooks/Chapter_6_Intro_to_cuDF_cn.ipynb)|
+| 第7章：cuML 入门 | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinz/accelerated-computing-hub/blob/main/Accelerated_Python_User_Guide/notebooks/Chapter_7_Intro_to_cuML_cn.ipynb)|
+| 第8章：cuGraph 入门 | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinz/accelerated-computing-hub/blob/main/Accelerated_Python_User_Guide/notebooks/Chapter_8_Intro_to_cuGraph_cn.ipynb)|
+| 第9章：开发者工具 | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinz/accelerated-computing-hub/blob/main/Accelerated_Python_User_Guide/notebooks/Chapter_9_Developer_Tools_cn.ipynb)|
+| 第X章：使用 cuNumeric 进行分布式计算 | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinz/accelerated-computing-hub/blob/main/Accelerated_Python_User_Guide/notebooks/Chapter_X_Distributed_Computing_cuNumeric_cn.ipynb)|
